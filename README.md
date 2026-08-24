@@ -80,6 +80,13 @@ app/
 ## 9. Result
 The Android notification system was successfully implemented and verified across all three test scenarios. The application adheres to modern Android design principles and provides a premium user experience.
 
+## 10. Screenshots
+
+![Login screen](./Screenshot%202026-08-24%20203553.png)
+![Home screen](./Screenshot%202026-08-24%20203604.png)
+![Genre details](./Screenshot%202026-08-24%20203622.png)
+![Book details](./Screenshot%202026-08-24%20203651.png)
+
 ---
 **Developed by: Sandy**
 **USN: 25MCAR0133**
