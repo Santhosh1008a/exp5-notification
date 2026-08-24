@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BookNest Primary Palette -->
+    <color name="navy_deep">#0A192F</color>
+    <color name="navy_medium">#112240</color>
+    <color name="navy_light">#233554</color>
+
+    <color name="royal_blue">#1E3A8A</color>
+    <color name="sky_blue">#3B82F6</color>
+    <color name="soft_cyan">#64FFDA</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_10">#1AFFFFFF</color>
+
+    <color name="glass_white">#26FFFFFF</color>
+    <color name="glass_stroke">#4DFFFFFF</color>
+
+    <!-- Genre Accents -->
+    <color name="fantasy_purple">#8B5CF6</color>
+    <color name="scifi_cyan">#06B6D4</color>
+    <color name="mystery_amber">#F59E0B</color>
+    <color name="romance_coral">#FB7185</color>
+    <color name="history_gold">#D97706</color>
+</resources>
