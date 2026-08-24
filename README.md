@@ -4,7 +4,7 @@
 **Experiment 5 — Android Notifications**
 
 ## 2. Objective
-To demonstrate the implementation of a real Android notification system in a mobile application. This includes creating notification channels, building notifications with various styles, handling runtime permissions (API 33+), and managing notification tap behaviors.
+To demonstrate the implementation of a real Android notification system in a mobile application. This includes creating notification channels, building notifications with various styles, handling runtime permissions, and delivering notifications that improve engagement.
 
 ## 3. Scenario
 **BookNest** is a premium free-resource book discovery application.
@@ -78,7 +78,25 @@ app/
   - Text: Time to continue your book! (The Hobbit — 62%)
 
 ## 9. Result
-The Android notification system was successfully implemented and verified across all three test scenarios. The application adheres to modern Android design principles and provides a premium user experience.
+The Android notification system was successfully implemented and verified across all three test scenarios. The application adheres to modern Android design principles and provides a premium user experience with clear and timely notifications.
+
+## Screenshots
+
+1) ![Login Screen](Screenshot 2026-08-24 203553.png)
+
+Login screen showing the glassmorphism-style login form with Name and USN fields.
+
+2) ![Home Dashboard](Screenshot 2026-08-24 203604.png)
+
+Home dashboard with the "Continue Reading" card and genre exploration.
+
+3) ![Notification Example - Continue Reading](Screenshot 2026-08-24 203622.png)
+
+An example system notification prompting the user to continue reading (shows title and short content).
+
+4) ![Notification Example - Reminder](Screenshot 2026-08-24 203651.png)
+
+Reading reminder notification showing progress percentage and a quick action to return to the app.
 
 ---
 **Developed by: Sandy**
